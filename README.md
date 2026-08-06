@@ -54,20 +54,20 @@ The system collects data from multiple sensors, processes the information using 
 - ESP32
 - MQTT
 - LoRaWAN
-  <img width="945" height="709" alt="Screenshot 2025-07-13 133346" src="https://github.com/user-attachments/assets/e8943998-e91d-44e3-a960-8bc681015807" />
+  <img width="700" height="550" alt="Screenshot 2025-07-13 133346" src="https://github.com/user-attachments/assets/e8943998-e91d-44e3-a960-8bc681015807" />
 
 
 
 ### Dashboard
 
 - Streamlit 
-<img width="1637" height="738" alt="Screenshot 2025-07-14 061056" src="https://github.com/user-attachments/assets/97f4f7c5-7a58-4a94-9b55-f1fa1331a630" />
+<img width="1000" height="600" alt="Screenshot 2025-07-14 061056" src="https://github.com/user-attachments/assets/97f4f7c5-7a58-4a94-9b55-f1fa1331a630" />
 
 
 ### Database
 
 - InfluxDB Cloud
-<img width="682" height="462" alt="Screenshot 2025-07-12 155055" src="https://github.com/user-attachments/assets/e6f109b0-8adc-43a6-bbb1-cdc75d875c70" />
+<img width="500" height="400" alt="Screenshot 2025-07-12 155055" src="https://github.com/user-attachments/assets/e6f109b0-8adc-43a6-bbb1-cdc75d875c70" />
 
 
 ---
@@ -95,9 +95,9 @@ Performance:
 
 - R² Score: 0.90
 - MAE: 0.05
-- <img width="566" height="379" alt="Screenshot 2025-07-12 182604" src="https://github.com/user-attachments/assets/9cce8f77-b633-4c25-b777-df2694a32f41" />
+- <img width="400" height="200" alt="Screenshot 2025-07-12 182604" src="https://github.com/user-attachments/assets/9cce8f77-b633-4c25-b777-df2694a32f41" />
 
-- <img width="710" height="294" alt="Screenshot 2025-07-12 184952" src="https://github.com/user-attachments/assets/574b485d-0e6d-4e49-b669-02fb84e3ca89" />
+- <img width="400" height="200" alt="Screenshot 2025-07-12 184952" src="https://github.com/user-attachments/assets/574b485d-0e6d-4e49-b669-02fb84e3ca89" />
 
 ---
 
@@ -117,9 +117,9 @@ Performance:
 
 ### Dashboard
 
-<img width="1637" height="738" alt="Screenshot 2025-07-14 061056" src="https://github.com/user-attachments/assets/b5a66d35-f09f-4aba-96b5-559ded250924" />
-<img width="1299" height="748" alt="Screenshot 2025-07-14 061007" src="https://github.com/user-attachments/assets/51fb96ad-3b3f-47dc-a409-76374b4f4f66" />
-<img width="1402" height="792" alt="Screenshot 2025-07-14 061336" src="https://github.com/user-attachments/assets/77464c5f-0077-451d-947e-db45753cc560" />
+<img width="1200" height="600" alt="Screenshot 2025-07-14 061056" src="https://github.com/user-attachments/assets/b5a66d35-f09f-4aba-96b5-559ded250924" />
+<img width="1200" height="600" alt="Screenshot 2025-07-14 061007" src="https://github.com/user-attachments/assets/51fb96ad-3b3f-47dc-a409-76374b4f4f66" />
+<img width="1200" height="600" alt="Screenshot 2025-07-14 061336" src="https://github.com/user-attachments/assets/77464c5f-0077-451d-947e-db45753cc560" />
 
 
 
@@ -130,8 +130,10 @@ Performance:
 <img width="1000" height="600" alt="Screenshot 2025-07-12 172118" src="https://github.com/user-attachments/assets/c7d073a6-c201-4e8c-bc2b-8f85b226577c" />
 
 ### Hardware Setup
-<img width="968<img width="1476" height="833" alt="Screenshot 2025-07-12 231626" src="https://github.com/user-attachments/assets/7a102968-608e-452d-be64-d293e3233cb8" />![Uploading Screenshot 2025-07-13 161043.png…]()
- height="716" alt="Screenshot 2025-07-12 151147" src="https://github.com/user-attachments/assets/3f5b8a43-f2e8-4f09-ad3f-e5f77f78f3a6" />
+<img width="1200" height="600" alt="Screenshot 2025-07-12 231626" src="https://github.com/user-attachments/assets/7a102968-608e-452d-be64-d293e3233cb8" />!
+
+<img width="900" height="600" alt="Screenshot 2025-07-14 082444" src="https://github.com/user-attachments/assets/935933e8-4a7f-4654-9756-a4c9a7fa5e33" />
+
 
 ---
 
