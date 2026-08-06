@@ -95,9 +95,9 @@ Performance:
 
 - R² Score: 0.90
 - MAE: 0.05
-- <img width="400" height="200" alt="Screenshot 2025-07-12 182604" src="https://github.com/user-attachments/assets/9cce8f77-b633-4c25-b777-df2694a32f41" />
+- <img width="600" height="200" alt="Screenshot 2025-07-12 182604" src="https://github.com/user-attachments/assets/9cce8f77-b633-4c25-b777-df2694a32f41" />
 
-- <img width="400" height="200" alt="Screenshot 2025-07-12 184952" src="https://github.com/user-attachments/assets/574b485d-0e6d-4e49-b669-02fb84e3ca89" />
+- <img width="600" height="200" alt="Screenshot 2025-07-12 184952" src="https://github.com/user-attachments/assets/574b485d-0e6d-4e49-b669-02fb84e3ca89" />
 
 ---
 
