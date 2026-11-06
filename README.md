@@ -119,7 +119,6 @@ Performance:
 
 <img width="1200" height="600" alt="Screenshot 2025-07-14 061056" src="https://github.com/user-attachments/assets/b5a66d35-f09f-4aba-96b5-559ded250924" />
 <img width="1200" height="600" alt="Screenshot 2025-07-14 061007" src="https://github.com/user-attachments/assets/51fb96ad-3b3f-47dc-a409-76374b4f4f66" />
-<img width="1200" height="600" alt="Screenshot 2025-07-14 061336" src="https://github.com/user-attachments/assets/77464c5f-0077-451d-947e-db45753cc560" />
 
 
 
